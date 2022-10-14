@@ -1,6 +1,6 @@
 #### William S Berry  
 
-github: https://github.com/wsberry
+github: https://github.com/wsberry</br>
 email: berry.cpp@gmail.com
 
 #### Skills Summary
